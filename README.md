@@ -8,8 +8,6 @@ This example project covers the usage of Spring Cloud Gateway along with Hystrix
 - Spring Cloud Netflix Hystrix
 - Spring Cloud Netflix Hystrix Dashboard
 
-## Architecture
-![Architecture](./architecture.png)
 
 ## URLs
 - `http://localhost:8080/all` - Countries Service
@@ -22,3 +20,5 @@ This example project covers the usage of Spring Cloud Gateway along with Hystrix
 - [Joke API](https://rapidapi.com/LemmoTresto/api/joke3?endpoint=apiendpoint_c198a2fb-fc88-4a86-9e34-e2978fc1a7c2)
 - [Spring Guide](https://spring.io/guides/gs/gateway/)
 - [Spring Cloud Gateway Documentation](https://cloud.spring.io/spring-cloud-gateway/reference/html/#gateway-how-it-works)
+
+#Can integrate with eureka – so that no need to hardcode urls
